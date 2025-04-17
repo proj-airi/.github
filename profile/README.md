@@ -18,6 +18,8 @@
 
 We wish a better vritual humanoid could live with us, here we are, aimming to build a character interactive system like the one powers up the famous AI VTuber [Neuro-sama](https://www.youtube.com/@Neurosama).
 
+## [github.com/moeru-ai/airi](https://github.com/moeru-ai/airi) our longest adventure on AGI in virtual world.
+
 ## Sub-projects born from this project
 
 - [`unspeech`](https://github.com/moeru-ai/unspeech): Universal endpoint proxy server for `/audio/transcriptions` and `/audio/speech`, like LiteLLM but for any ASR and TTS
