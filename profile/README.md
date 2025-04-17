@@ -16,6 +16,20 @@
   [<a href="https://discord.gg/TgQ3Cu2F7A">Join Discord Server</a>] [<a href="https:///airi.moeru.ai">Try it</a>]
 </p>
 
+> [!NOTE]
+>
+> If you don't know what Project AIRI is, here's the introduction:
+>
+> Project AIRI aimed to build the ultimate virtual AI lives within the cyber spaces, we are currently targeting to re-create Neuro-sama.
+>
+> Funding? Startup?
+>
+> Currently, we have several parnership projects with other companies to build similar products, but I (@nekomeowww) primarily self sponsored those most contributed members of both @proj-airi and @moeru-ai, for supporting their work. I'd love have a opportunity to work on this project in long term without worrying the funding. If you are, and indeed got interested in this project, please contact me.
+>
+> Who are we?
+>
+> We are a group of currently non-funded talented people made up with computer scientists, experts in multi-modal fields, designers, product managers, and popular open source contributors who loves the goal of where we are heading now.
+
 We wish a better vritual humanoid could live with us, here we are, aimming to build a character interactive system like the one powers up the famous AI VTuber [Neuro-sama](https://www.youtube.com/@Neurosama).
 
 ## [github.com/moeru-ai/airi](https://github.com/moeru-ai/airi) our longest adventure on AGI in virtual world.
