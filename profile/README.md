@@ -31,7 +31,7 @@
 > We are a group of currently non-funded talented people made up with computer scientists, experts in multi-modal fields, designers, product managers, and popular open source contributors who loves the goal of where we are heading now.
 
 > [!IMPORTANT]  
-> We support enterprise support, if you are interested in cooperate with us:
+> We got consulting and outsourcing services for enterprises, if you are interested in cooperate with us:
 >
 > - to customize your own AI character(s)
 > - to build virtual AI chatting platforms
