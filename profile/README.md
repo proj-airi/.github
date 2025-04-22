@@ -19,7 +19,7 @@
 We wish a better vritual humanoid could live with us, here we are, aimming to build a character interactive system like the one powers up the famous AI VTuber [Neuro-sama](https://www.youtube.com/@Neurosama).
 
 > [!IMPORTANT]  
-> We got consulting and outsourcing services for enterprises, if you are interested in cooperate with us:
+> We do provide consulting and outsourcing services for enterprises and startups, if you are interested in cooperate with us:
 >
 > - to customize your own AI character(s)
 > - to build virtual AI chatting platforms
