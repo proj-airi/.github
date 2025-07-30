@@ -13,7 +13,7 @@
 </p>
 
 <p align="center">
-  [<a href="https://discord.gg/TgQ3Cu2F7A">Join Discord Server</a>] [<a href="https:///airi.moeru.ai">Try it</a>]
+  [<a href="https://discord.gg/TgQ3Cu2F7A">Join Discord Server</a>] [<a href="https:///airi.moeru.ai">Try it</a>] [<a href="https://x.com/proj_airi">Follow our X</a>]
 </p>
 
 We wish a better vritual humanoid could live with us, here we are, aimming to build a character interactive system like the one powers up the famous AI VTuber [Neuro-sama](https://www.youtube.com/@Neurosama).
