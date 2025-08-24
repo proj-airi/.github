@@ -38,7 +38,7 @@ We wish a better virtual humanoid could live with us, here we are, aiming to bui
 >
 > Funding? Startup?
 >
-> Currently, we have several parnership projects with other companies to build similar products, but I ([@nekomeowww](https://github.com/nekomeowww)) primarily self sponsored those most contributed members of both [@proj-airi](https://github.com/proj-airi) and [@moeru-ai](https://github.com/moeru-ai), for supporting their work. I'd love to have an opportunity to work on this project in the long term without worrying about the funding. If you are interested in this project, please contact me.
+> Currently, we have several partnership projects with other companies to build similar products, but I ([@nekomeowww](https://github.com/nekomeowww)) primarily self sponsored those most contributed members of both [@proj-airi](https://github.com/proj-airi) and [@moeru-ai](https://github.com/moeru-ai), for supporting their work. I'd love to have an opportunity to work on this project in the long term without worrying about the funding. If you are interested in this project, please contact me.
 >
 > Who are we?
 >
